@@ -1,4 +1,4 @@
-*{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -54,7 +54,7 @@ header {
 }
 
 .submenu li {
-    display:block
+    display:block;
     padding: 8px;
 }
 
@@ -191,3 +191,4 @@ aside .noticia {
     }
 
 }
+
